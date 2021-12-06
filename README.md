@@ -2,7 +2,7 @@
 
 The collection of RODs written by [@unknwon](https://github.com/unknwon) for researching and describing engineering efforts.
 
-⚠️ Writings in this repository are 100% personal, opinionated, and non-work related.
+⚠️ Writings in this repository are 100% personal, opinionated, and non-work related. Nothing here is a commitment.
 
 ## What is an ROD?
 
