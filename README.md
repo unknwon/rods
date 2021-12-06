@@ -2,6 +2,8 @@
 
 The collection of RODs written by [@unknwon](https://github.com/unknwon) for researching and describing engineering efforts.
 
+⚠️ Writings in this repository are 100% personal, opinionated, and non-work related.
+
 ## What is an ROD?
 
 ROD is the acronym of **Read-Only Document**, ROD uses similar format as RFC but unlike RFC which is for requesting for comments, ROD is used more as FYI.
