@@ -1,6 +1,6 @@
 # RODs - The graveyard of "brilliant" ideas
 
-The collection of RODs written by [@unknwon](https://github.com/unknwon) for planning engineering efforts.
+The collection of RODs written by [@unknwon](https://github.com/unknwon) for researching and describing engineering efforts.
 
 ## What is an ROD?
 
