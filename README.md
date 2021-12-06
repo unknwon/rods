@@ -6,11 +6,17 @@ The collection of RODs written by [@unknwon](https://github.com/unknwon) for pla
 
 ROD is the acronym of **Read-Only Document**, ROD uses similar format as RFC but unlike RFC which is for requesting for comments, ROD is used more as FYI.
 
+## Content structure
+
+Flat, and each Markdown file contains an ROD.
+
 ## Open-source, not open-contribution
 
 _Quote from [benbjohnson/litestream](https://github.com/benbjohnson/litestream#open-source-not-open-contribution):_
 
 > I am grateful for community involvement, bug reports, & feature requests. I do not wish to come off as anything but welcoming, however, I've made the decision to keep this project closed to contributions for my own mental health and long term viability of the project.
+
+With that said, the [Discussions](https://github.com/unknwon/rods/discussions) is open.
 
 ## License
 
