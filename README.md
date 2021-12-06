@@ -8,7 +8,7 @@ ROD is the acronym of **Read-Only Document**, ROD uses similar format as RFC but
 
 ## Content structure
 
-Flat, and each Markdown file contains an ROD.
+Flat, and each Markdown file contains an ROD, and each ROD is monotonically numbered, like a primary key in your database table.
 
 ## Open-source, not open-contribution
 
