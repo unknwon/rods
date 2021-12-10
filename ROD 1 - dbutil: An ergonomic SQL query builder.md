@@ -69,4 +69,4 @@ First-class support of OpenTelemetry and Go stdlib tracing, and encode applicati
 
 ## Followup
 
-- 2021-12-09: Due to `dbutil` is such a common name for database utilities and exists in many applications, I decided to pick a different and unique name [`norm`](https://github.com/go-norm/norm) to avoid import path conflicts.
+- 2021-12-09: Due to `dbutil` is such a common name for database utilities and exists in many applications, I decided to pick a different and unique name [`norm`](https://github.com/go-norm/norm) to avoid import path conflicts. This allows applications to continue using `dbutil` as the internal wrapper around `norm` for sophisticated desires.
