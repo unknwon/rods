@@ -66,3 +66,7 @@ First-class support of OpenTelemetry and Go stdlib tracing, and encode applicati
 - I may end up forking the upper.io/v4 or writing a new SQL query builder from scratch in future iterations to accomplish the vision.
   - As upper.io/v4 does not handle [conflicting column names in joins.](https://github.com/upper/db/issues/533)
 - Ultimately, this is just a small step for refactoring the database layer of the Gogs project. Before getting there, extra RODs are likely needed for sister projects such as `dbmigrate` and `dbtesting` for database-agnostic migrations and testings respectively.
+
+## Followup
+
+- 2021-12-09: Due to `dbutil` is such a common name for database utilities and exists in many applications, I decided to pick a different and unique name [`norm`](https://github.com/go-norm/norm) to avoid import path conflicts.
